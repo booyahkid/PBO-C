@@ -1,7 +1,7 @@
 /**
  * File      : Titik.java		22/02/23
- * Penulis   : Fahrel Gibran Alghany
- * Deskripsi : Kelas yang berisi main dari OperasiTitik
+ * Penulis   : Fikri Baswara Andanawarih
+ * Deskripsi : Kelas yang berisi Titik
  * 
  */
 
