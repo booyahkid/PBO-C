@@ -1,3 +1,11 @@
+/**
+ * File      : MOperasiTitik.java		01/03/23
+ * Penulis   : Fikri Baswara Andanwarih
+ * Deskripsi : Kelas yang berisi Titik
+ * 
+ */
+
+
 class Titik{
 	double absis;
 	double ordinat;
