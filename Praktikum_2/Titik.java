@@ -1,8 +1,3 @@
-// File			  : Titik.java
-// Penulis		: Fikri  Baswara Andanawarih
-// Deskripsi	: Kelas titik
-
-
 class Titik{
 	double absis;
 	double ordinat;
