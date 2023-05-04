@@ -1,5 +1,5 @@
 /**
- * File      : Vehicle.java		15/03/23
+ * File      : Vehicle.java		04/05/23
  * Penulis   : Fikri Baswara Andanawarih
  * Deskripsi : Vehicle
  */
