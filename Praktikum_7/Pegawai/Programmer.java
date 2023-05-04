@@ -1,3 +1,9 @@
+/**
+ * File      : Programmer.java		04/05/23
+ * Penulis   : Fikri Baswara Andanawarih
+ * Deskripsi : representasi Programmer
+ */
+
 public class Programmer extends Pegawai{
     private int bonus = 450000;
 
