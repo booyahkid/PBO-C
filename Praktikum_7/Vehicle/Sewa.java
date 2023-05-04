@@ -1,3 +1,9 @@
+/**
+ * File      : Sewa.java		03/05/23
+ * Penulis   : Fikri Baswara Andanawarih
+ * Deskripsi : Main dari vehicle
+ */
+
 public class Sewa {
 	public static void main(String[] args){
 		Vehicle kendaraan = new Vehicle();
