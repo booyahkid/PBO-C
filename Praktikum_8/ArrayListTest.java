@@ -1,5 +1,12 @@
 import java.util.ArrayList;
 
+/**
+ * File      : ArrayList.Test.java   31/05/23
+ * Penulis   : Fikri Baswara Andanawarih - 24060121140122
+ * Deskripsi : Program penggunaan objek ArrayList sebagai Collection class
+ *
+ */
+
 public class ArrayListTest{
     public static void main(String[] args) {
 
